@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Jay E. Bodiongan
 
 🚀 Aspiring Software Developer | 💻 Problem Solver | 🌱 Lifelong Learner
 
@@ -10,10 +10,10 @@ Welcome to my portfolio repository! This space showcases my projects, skills, an
 
 I am an aspiring software developer with a strong interest in building efficient, scalable, and user-friendly applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my coding skills.
 
-- 🌍 Location: [Your Location]
-- 🎓 Education: [Your Degree / Self-Taught / Bootcamp]
+
+- 🎓 Education: BS Computer Science
 - 💡 Interests: Web Development, Software Engineering, Open Source
-- 📫 Contact: [your.email@example.com]
+- 📫 Contact: jaybodiongan0@gmail.com
 
 ---
 
@@ -23,7 +23,7 @@ I am an aspiring software developer with a strong interest in building efficient
 - JavaScript
 - Python
 - Java
-- C / C++ (optional)
+- C / C++ 
 
 **Web Development**
 - HTML5, CSS3
@@ -32,47 +32,13 @@ I am an aspiring software developer with a strong interest in building efficient
 
 **Databases**
 - MySQL
-- PostgreSQL
-- MongoDB
+- Sqlite3
 
 **Tools & Technologies**
 - Git & GitHub
 - REST APIs
-- Docker (basic)
 - Linux
 
----
-
-## 📂 Projects
-
-### 🔹 Project 1: [Project Name]
-**Description:**  
-Brief explanation of what the project does and the problem it solves.
-
-**Tech Stack:**  
-- Language/Framework
-- Database (if any)
-
-**Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-🔗 [Live Demo](#) | 📁 [Source Code](#)
-
----
-
-### 🔹 Project 2: [Project Name]
-**Description:**  
-Short overview of the project.
-
-**Tech Stack:**  
-- Language/Framework
-- Tools used
-
-🔗 [Source Code](#)
-
----
 
 ## 📈 Learning & Goals
 
