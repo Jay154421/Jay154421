@@ -12,7 +12,10 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "animationType": "typewriter",
+        "animationPreviewKey": 2
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -11557,23 +11560,6 @@
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1787946832070_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787946832070_4"
     },
     {
       "widgetId": "tech-stack",
