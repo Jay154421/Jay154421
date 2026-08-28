@@ -2,26 +2,6 @@
   "username": "Jay154421",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {
-        "animationType": "typewriter",
-        "animationPreviewKey": 2
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1787946832070_0"
-    },
-    {
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
@@ -11579,9 +11559,9 @@
           "html",
           "css",
           "py",
-          "rust",
           "go",
-          "cpp"
+          "cpp",
+          "php"
         ],
         "theme": "dark",
         "perLine": 4
@@ -11590,6 +11570,23 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1787946832070_5"
+    },
+    {
+      "instanceId": "widget_1787951389499",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
